@@ -2,7 +2,7 @@
 A little script to help you activate Python virtualenv.
 
 Usage: 
-1. Put your Python virtualenv directory named `venvs` in the home directory.
+1. Put all your Python virtualenvs into the directory named `venvs` in the home directory.
    Like this structure:
    ```
    $HOME
