@@ -3,7 +3,7 @@ venvs() {
     local venvs_root="${venvs_path:-$HOME/venvs}"
     
     # If no argument is provided, default to "torch"
-    local select_venv="torch"
+    local select_venv="base"
     
     # Check if an argument is provided
     if [ $# -ge 1 ]; then
